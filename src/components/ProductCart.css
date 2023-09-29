@@ -1,0 +1,30 @@
+.c .product-img{
+    display: flex!important;
+    justify-content: center!important;
+    width: 100%!important;
+    height: 100%!important;
+}
+.c .product-img img{
+    height: 200px!important;
+    width: 50%!important;
+    margin: 0 uto!important;
+    margin-top: 30px!important;
+}
+.c .title{
+    text-align: center!important;
+    padding: 20px;
+}
+.c .read-more{
+    background-color: #7bae00;
+    padding: 0px 5px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.c .r-r{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.c .l-c-v{
+    justify-content: center;
+}
